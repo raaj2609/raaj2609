@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @raaj2609
+- 👋 Hi, I’m Lingraj
 - 👀 I’m interested in Data science
-- 🌱 I’m currently learning btech cse and data science
+- 🌱 I’m currently working as a Software developer intern
 - 💞️ I’m looking to collaborate on projects related to data science and python
 - 📫 Linkedin: https://www.linkedin.com/in/lingrajsg
